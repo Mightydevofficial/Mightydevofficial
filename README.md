@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Mightydevofficial
+- 👀 I’m interested in App Development & Web Development
+- 🌱 I’m currently learning App and Web development
+- 💞️ I’m in the proses of making simple applications for now.
+- 📫 Reach me at mightydevofficial@gmail.com
